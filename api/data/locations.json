@@ -1,0 +1,23 @@
+[
+  { "id": 1, "name": "Praça Central", "lat": -23.5505, "lng": -46.6333 },
+  { "id": 2, "name": "Museu da Cidade", "lat": -23.5614, "lng": -46.6559 },
+  { "id": 3, "name": "Mercado Municipal", "lat": -23.5412, "lng": -46.6213 },
+  { "id": 4, "name": "Praça da Sé", "lat": -23.5551, "lng": -46.6344 },
+  { "id": 5, "name": "Theatro Municipal", "lat": -23.5454, "lng": -46.6354 },
+  { "id": 6, "name": "Praça do Patriarca", "lat": -23.5598, "lng": -46.6412 },
+  { "id": 7, "name": "Mosteiro de São Bento", "lat": -23.5622, "lng": -46.6362 },
+  { "id": 8, "name": "Praça da República", "lat": -23.5484, "lng": -46.6305 },
+  { "id": 9, "name": "Parque da Luz", "lat": -23.5535, "lng": -46.6429 },
+  { "id": 10, "name": "Museu de Arte de São Paulo", "lat": -23.5833, "lng": -46.6569 },
+  { "id": 11, "name": "Parque Ibirapuera", "lat": -23.5884, "lng": -46.6653 },
+  { "id": 12, "name": "Praça Ramos de Azevedo", "lat": -23.5444, "lng": -46.6369 },
+  { "id": 13, "name": "Teatro Municipal", "lat": -23.5464, "lng": -46.6392 },
+  { "id": 14, "name": "Praça do Correio", "lat": -23.5492, "lng": -46.6329 },
+  { "id": 15, "name": "Praça Júlio Prestes", "lat": -23.5424, "lng": -46.6394 },
+  { "id": 16, "name": "Museu de Arte Moderna", "lat": -23.5924, "lng": -46.6729 },
+  { "id": 17, "name": "Praça da Bandeira", "lat": -23.5634, "lng": -46.6444 },
+  { "id": 18, "name": "Praça da Luz", "lat": -23.5535, "lng": -46.6429 },
+  { "id": 19, "name": "Praça Raul Soares", "lat": -23.5551, "lng": -46.6344 },
+  { "id": 20, "name": "Praça da República", "lat": -23.5484, "lng": -46.6305 }
+]
+
